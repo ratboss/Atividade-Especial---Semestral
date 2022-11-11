@@ -1,0 +1,8 @@
+C:\Users\Pichau\source\repos\ConsoleApp6\ConsoleApp6\bin\x64\Debug\ConsoleApp6.exe.config
+C:\Users\Pichau\source\repos\ConsoleApp6\ConsoleApp6\bin\x64\Debug\ConsoleApp6.exe
+C:\Users\Pichau\source\repos\ConsoleApp6\ConsoleApp6\bin\x64\Debug\ConsoleApp6.pdb
+C:\Users\Pichau\source\repos\ConsoleApp6\ConsoleApp6\obj\x64\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\ConsoleApp6\ConsoleApp6\obj\x64\Debug\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\source\repos\ConsoleApp6\ConsoleApp6\obj\x64\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ConsoleApp6\ConsoleApp6\obj\x64\Debug\ConsoleApp6.exe
+C:\Users\Pichau\source\repos\ConsoleApp6\ConsoleApp6\obj\x64\Debug\ConsoleApp6.pdb
